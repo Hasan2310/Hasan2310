@@ -8,3 +8,9 @@ Hello! 👋 I’m Hasan Ahmad Halibah, a passionate and driven Fresh Graduate fr
 [![](https://visitcount.itsvg.in/api?id=Hasan2310&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Hasan2310/Hasan2310/output/snake.svg" alt="Snake animation" />
+
+###
